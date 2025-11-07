@@ -1,4 +1,8 @@
-# json-viewer
+# json-viewer-simpler
+
+A fork from https://github.com/andypf/json-viewer/tree/2.2.0. But without ReactJS support and on only file, being more easier to include in any project. And with toolbar always on top.
+
+---
 
 ![Size](https://img.shields.io/badge/size-32.3KB-green.svg) [![License](https://img.shields.io/npm/l/%40andypf%2Fjson-viewer?color=yellow)](https://github.com/andypf/json-viewer/blob/main/LICENSE.md) ![Coverage Status](https://img.shields.io/badge/coverage-88.5%25-orange.svg) [![Version](https://img.shields.io/npm/v/%40andypf%2Fjson-viewer)](https://github.com/andypf/json-viewer/blob/main/LICENSE.md) ![Tools](https://img.shields.io/badge/tools-Shadow_DOM%2C_Web_Component%2C_React-red)
 
